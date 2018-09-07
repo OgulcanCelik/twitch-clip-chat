@@ -1,4 +1,4 @@
-# twitch-clip-chat
+# Twitch Clip Chat!
 
 Fetch the chat log of the given clip!
 
