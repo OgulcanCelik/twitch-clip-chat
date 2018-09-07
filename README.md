@@ -6,12 +6,20 @@ This is a python script which lets you download a given Twitch Clip's chat data 
 
 You can get your client id from Twitch: https://dev.twitch.tv/dashboard/apps
 
+Only requirements are:
+
+```
+Python 3.6+
+requests
+```
+
 ## Installation
 ```
 git clone https://github.com/OgulcanCelik/twitch-clip-chat.git
 pip install requests
 
 ```
+
 
 ## Usage
 
